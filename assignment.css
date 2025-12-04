@@ -1,0 +1,22 @@
+div{
+    background-color: rgb(211, 211, 211);
+    border-radius: 12px;
+    margin: 200px 20px;
+    padding: 0px 20px 20px;
+    text-align: center;
+}
+.center{
+    font-family: helvetica;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: red;
+    border-radius: 20px;
+   
+}
